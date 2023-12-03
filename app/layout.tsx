@@ -4,8 +4,8 @@ import ActiveStatus from './components/ActiveStatus'
 import ToasterContext from './context/ToasterContext'
 
 export const metadata = {
-  title: 'Test',
-  description: 'Tested by RKB',
+  title: 'With Them',
+  description: ' Created by RKB',
 }
 
 export default function RootLayout({
